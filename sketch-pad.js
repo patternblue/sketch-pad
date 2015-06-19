@@ -63,7 +63,7 @@ function theMain(){
 			'width': widthOfSquare,
 			'height': heightOfSquare,
 			'background-color':'#ffffff',
-			'outline':'1px solid black'
+			// 'outline':'1px solid white'
 		});
 	}
 
